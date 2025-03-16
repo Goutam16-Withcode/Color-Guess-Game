@@ -1,18 +1,17 @@
-Color Guess Game
+# Color Guess Game
 A fun and interactive console-based game where players guess randomly generated colors within a given number of attempts.
 
-Overview
+# Overview
 The Color Guess Game is a C++ console application designed to challenge players by having them guess a randomly selected color from a predefined list. The game offers feedback on the accuracy of the guess, making it engaging and educational.
 
-Features
+# Features
 ✅ Random color generation
 ✅ Feedback on guesses (e.g., "Correct!", "Try again", etc.)
 ✅ User-defined difficulty levels (optional enhancement)
 ✅ Easy-to-use console interface
 ✅ Compact and efficient code written in C++
 
-Tech Stack
-Programming Language: C++
+# Programming Language: C++
 Compiler: GCC / MinGW for Windows
 Build Tool: g++ or similar C++ compiler
 Prerequisites
@@ -56,14 +55,14 @@ Guess the color: Red
 Try again!
 Guess the color: Blue
 Correct! Well done!
-Potential Enhancements
+# Potential Enhancements
 🔹 Add difficulty levels (e.g., easy, medium, hard)
 🔹 Implement a scoring system
 🔹 Introduce a leaderboard feature
 🔹 Add a graphical interface (e.g., SFML or SDL library)
 
-Contributing
+# Contributing
 Contributions are welcome! Feel free to submit a pull request or report any issues.
 
-License
+# License
 This project is licensed under the MIT License.
