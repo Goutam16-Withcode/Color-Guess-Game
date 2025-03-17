@@ -25,7 +25,7 @@ Clone the Repository:
 bash
 Copy
 Edit
-git clone https://github.com/YourUsername/Color-Guess-Game.git
+git clone https://github.com/Goutam16-Withcode/Color-Guess-Game.git
 cd Color-Guess-Game
 Compile the Code:
 
